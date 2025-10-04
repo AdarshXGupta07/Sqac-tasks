@@ -173,6 +173,8 @@ Project Link: [https://github.com/yourusername/currency-converter](https://githu
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+<img width="1596" height="739" alt="image" src="https://github.com/user-attachments/assets/0a577db2-b858-4359-96a2-6668b474b9ee" />
+
 2.MovieSearch
 # 🎬 MovieFlix - Movie Search App
 
@@ -255,6 +257,7 @@ npm run preview
 ---
 
 **Note:** The CSS warnings about `@tailwind` directives are normal and don't affect functionality.
+<img width="1599" height="736" alt="image" src="https://github.com/user-attachments/assets/ce79717d-040f-4c18-8a7e-22e97165caa3" />
 
 3.Admin DashBoard
 # 🚀 Product Manager - Modern Web Application
